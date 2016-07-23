@@ -1,0 +1,13 @@
+git config --global user.email "emails4suji@gmail.com"
+git config --global user.name "Suji"
+
+
+git init - To create a new repository
+git clone /path/to/repository - To create working copy
+git add . - To propose changes
+git commit -a -m "comment" - To update changes
+git push origin master - To push changes to github
+
+
+https://github.com/emails4suji/Training
+
